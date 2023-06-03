@@ -4,9 +4,7 @@
 
 • 👨‍🎓Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes, e estou Cursando Análise e Desenvolvimento de sistemas Na faculdade SpTechSchool.
 
-• 📝 Cursando análise e desenvolvimento de sistemas na São Paulo Tech School - SPTECH.
-
-📧- Voce pode me contatar no meu E-mail: will.adolpho@sptech.school
+• 📧 Voce pode me contatar no meu E-mail: will.adolpho@sptech.school
 
 ## 👨‍ 💻Tecnologias e recusos:
 
