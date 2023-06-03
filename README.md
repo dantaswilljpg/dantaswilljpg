@@ -21,7 +21,8 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
 </div>
 
-##🌐 Contato:
+## 👨‍ Contatos:
+
 <a href="https://www.linkedin.com/in/ti-alves/](https://www.linkedin.com/in/will-gustavo-dantas-adolpho-54532922b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
 </a>
