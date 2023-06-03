@@ -6,13 +6,6 @@
 
 • 📝 Cursando análise e desenvolvimento de sistemas na São Paulo Tech School - SPTECH.
 
-<div>
-    <a href="https://github.com/dantaswilljpg">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yuriolivs&show_icons=true&theme=dark"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriolivs&layout=compact&theme=dark"/>
-    </a>
-</div>
-
 ## 👨‍ 💻Tecnologias e recusos:
 
 <div align="center">
