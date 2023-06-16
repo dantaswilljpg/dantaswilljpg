@@ -1,5 +1,9 @@
 ## Bem Vindo ao meu Git, Meu nome é Will Dantas, estou Feliz por Receber sua visita aqui!!👨‍
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantaswilljpg&rank_icon=github&theme=tokyonight)
+
+
+
 • 💻 Desenvolvedor.
 
 • 👨‍🎓Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes, e estou Cursando Análise e Desenvolvimento de sistemas Na faculdade SpTechSchool.
