@@ -1,4 +1,4 @@
-## Bem Vindo ao meu Git, Meu nome é Will, estou Feliz por Receber sua visita aqui!!👨‍
+## Bem Vindo ao meu Git, Meu nome é Will, fico feliz por receber sua visita aqui!!👨‍
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantaswilljpg&rank_icon=github&theme=tokyonight)
 
