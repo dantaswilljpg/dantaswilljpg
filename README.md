@@ -1,10 +1,12 @@
 ## Bem Vindo ao meu Git, Meu nome é Will, fico feliz por receber sua visita aqui!!👨‍
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantaswilljpg&rank_icon=github&theme=tokyonight)
+### ⚙️ GitHub Analytics
 
-##
-<div align="center"> 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaswilljpg&show_icons=true&theme=dark&locale=pt-br&layout=compact"/>
+<div>
+    <a href="https://github.com/leobr1t0">
+       <img height="145em" src="https://github-readme-stats.vercel.app/api?username=dantaswilljpg&show_icons=true&theme=tokyonight">
+       <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaswilljpg&theme=tokyonight&layout=compact&langs_count=8">
+    </a>
 </div>
 
 
