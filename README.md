@@ -2,6 +2,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantaswilljpg&rank_icon=github&theme=tokyonight)
 
+##
+<div align="center"> 
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaswilljpg&show_icons=true&theme=dark&locale=pt-br&layout=compact"/>
+</div>
 
 
 • 💻 Desenvolvedor.
