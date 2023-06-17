@@ -1,6 +1,6 @@
 ## Bem Vindo ao meu Git, Meu nome é Will, fico feliz por receber sua visita aqui!!👨‍
 
-### ⚙️ GitHub Analytics
+###  🌐 GitHub
 
 <div>
     <a href="https://github.com/leobr1t0">
@@ -12,7 +12,7 @@
 
 • 💻 Desenvolvedor.
 
-• 👨‍🎓Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes, e estou Cursando Análise e Desenvolvimento de sistemas Na faculdade SpTechSchool.
+• 👨‍🎓Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes e estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech School.
 
 • 📧 Voce pode me contatar no meu E-mail: will.adolpho@sptech.school
 
