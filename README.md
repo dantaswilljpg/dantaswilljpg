@@ -1,15 +1,13 @@
 <img src="https://www.comidaereceitas.com.br/wp-content/uploads/2020/06/salada_escarola.jpg" height="150" style="border-radius: 50px;" align="right" alt="salada" > 
 
-### Olá, bem vindo ao meu git hub, me chamo Will Dantas👋.
-<br><br><br>
+## Bem Vindo ao meu Git, Meu nome é Will Dantas, fico feliz por receber sua visita aqui!!👨‍
 
-
-### ⚙️ GitHub 
+###  🌐 GitHub
 
 <div>
     <a href="https://github.com/dantaswilljpg">
-       <img height="145em" src="https://github-readme-stats.vercel.app/api?username=dantaswilljpg&show_icons=true&theme=tokyonight">
-       <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaswilljpg&theme=tokyonight&layout=compact&langs_count=8">
+       <img height="175em" src="https://github-readme-stats.vercel.app/api?username=dantaswilljpg&show_icons=true&theme=tokyonight">
+       <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaswilljpg&theme=tokyonight&layout=compact&langs_count=8">
     </a>
 </div>
 
