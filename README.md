@@ -1,4 +1,4 @@
-<img src="assets/imagens/octocat.png](https://www.comidaereceitas.com.br/wp-content/uploads/2020/06/salada_escarola.jpg" height="150" style="border-radius: 50px;" align="right" alt="salada" > 
+<img src="https://www.comidaereceitas.com.br/wp-content/uploads/2020/06/salada_escarola.jpg" height="150" style="border-radius: 50px;" align="right" alt="salada" > 
 
 ### Olá, bem vindo ao meu git hub, me chamo Will Dantas👋.
 <br><br><br>
