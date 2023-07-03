@@ -2,15 +2,14 @@
 
 ## Bem Vindo ao meu Git, Meu nome é Will Dantas, fico feliz por receber sua visita aqui!!👨‍
 
-###  🌐 GitHub
-
-<div>
-    <a href="https://github.com/dantaswilljpg">
-       <img height="175em" src="https://github-readme-stats.vercel.app/api?username=dantaswilljpg&show_icons=true&theme=tokyonight">
-       <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaswilljpg&theme=tokyonight&layout=compact&langs_count=8">
-    </a>
+ ### 🛠️ Git Hub:
+<br>
+  <a href="https://github.com/dantaswilljpg"> </a>
+  <div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dantaswilljpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaswilljpg&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<br>
 
 
 • 💻 Desenvolvedor.
