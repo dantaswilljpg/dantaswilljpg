@@ -3,8 +3,10 @@
 ## Bem Vindo ao meu Git, Meu nome é Will Dantas,feliz por receber sua visita aqui!!👨‍ 👋🏼
 <div>
   • 💻 Desenvolvedor.
+  <br><br>
 
 • 👨‍🎓Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes e estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech School.
+<br><br>
 
 • 📧 Meu e-mail de contato: will.adolpho@sptech.school
 </div>
