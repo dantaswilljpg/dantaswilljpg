@@ -1,4 +1,5 @@
-<img src="![image](https://github.com/dantaswilljpg/dantaswilljpg/assets/126539225/ec5800c3-0039-4c7e-9419-d1d864685980)"
+<img src="![image](https://github.com/dantaswilljpg/dantaswilljpg/assets/126539225/ec5800c3-0039-4c7e-9419-d1d864685980)
+	"
  height="250" style="border-radius:550px;" align="right" alt="salada" > 
 
 ## Bem Vindo ao meu Git, Meu nome é Will Dantas,feliz por receber sua visita aqui!!👨‍ 👋🏼
