@@ -1,22 +1,27 @@
 <img src="https://www.comidaereceitas.com.br/wp-content/uploads/2020/06/salada_escarola.jpg" height="150" style="border-radius: 50px;" align="right" alt="salada" > 
 
-## Bem Vindo ao meu Git, Meu nome é Will Dantas, fico feliz por receber sua visita aqui!!👨‍
+## Bem Vindo ao meu Git, Meu nome é Will Dantas,feliz por receber sua visita aqui!!👨‍ 👋🏼
+<div>
+  • 💻 Desenvolvedor.
+
+• 👨‍🎓Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes e estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech School.
+
+• 📧 Meu e-mail de contato: will.adolpho@sptech.school
+</div>
+
+<br>
+<br>
 
  ### 🛠️ Git Hub:
 <br>
+
+ <div align="center">
   <a href="https://github.com/dantaswilljpg"> </a>
-  <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dantaswilljpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaswilljpg&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 
-
-• 💻 Desenvolvedor.
-
-• 👨‍🎓Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes e estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech School.
-
-• 📧 Meu e-mail de contato: will.adolpho@sptech.school
 
 ## 👨‍ 💻Tecnologias e recusos:
 
