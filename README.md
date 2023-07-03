@@ -1,4 +1,4 @@
-<img src="https://www.comidaereceitas.com.br/wp-content/uploads/2020/06/salada_escarola.jpg" height="250" style="border-radius:550px;" align="right" alt="salada" > 
+<img src="blob:https://web.whatsapp.com/5213e225-4f93-4809-99a4-1c8d73618ec8" height="250" style="border-radius:550px;" align="right" alt="salada" > 
 
 ## Bem Vindo ao meu Git, Meu nome é Will Dantas,feliz por receber sua visita aqui!!👨‍ 👋🏼
 <div>
