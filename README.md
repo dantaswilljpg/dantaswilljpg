@@ -39,11 +39,10 @@
 <a href="https://www.linkedin.com/in/ti-alves/](https://www.linkedin.com/in/will-gustavo-dantas-adolpho-54532922b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
 </a>
-	</div>
 <a href="mailto:willgustavodantasadolpho@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
  <a href="https://www.instagram.com/dantass_jpg/?hl=pt-br" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
-
+	</div>
