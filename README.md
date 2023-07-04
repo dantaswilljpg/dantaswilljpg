@@ -1,7 +1,7 @@
 <img src="https://thumbs.gfycat.com/PortlyPleasingHowlermonkey-max-1mb.gif"
- height="350" width="300" style="border-radius:550px;" align="right" alt="salada" > 
+ height="350" width="200" style="border-radius:550px;" align="right" alt="salada" > 
 
-## Prazer, meu nome é Will Dantas, feliz por receber sua visita aqui!!👨‍ 👋🏼
+## Prazer, meu nome é Will Dantas, fico feliz por receber sua visita aqui!!👨‍ 👋🏼
 <div>
   • 💻 Desenvolvedor.
   <br><br>
