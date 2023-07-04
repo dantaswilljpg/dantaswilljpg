@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U5NmFxcHU2cnkyeDdobWNjMXZ4Y2VsajBiNXBvNGFkZm9pZ3d1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
+<img src="https://pa1.aminoapps.com/6618/579af2d8df43ca612e38b09a103bcde82b7d92aa_00.gif"
  height="250" width="300" style="border-radius:550px;" align="right" alt="salada" > 
 
 ## Bem Vindo ao meu Git, Meu nome é Will Dantas,feliz por receber sua visita aqui!!👨‍ 👋🏼
