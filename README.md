@@ -62,5 +62,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dantaswilljpg&theme=tokyonight)](https://github.com/dantaswilljpg/github-profile-trophy)
 
 
-![Snake animation](https://github.com/dantaswilljpg/dantaswilljpg/blob/output/github-contribution-grid-snake-dark.svg)
-
