@@ -59,6 +59,7 @@
 
 ## 🏆 GitHub Trophies 🏆
 
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=dantaswilljpg&theme=tokyonight)](https://github.com/dantaswilljpg/github-profile-trophy)
-
+</div>
 
