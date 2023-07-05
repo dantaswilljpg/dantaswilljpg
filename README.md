@@ -1,7 +1,7 @@
 <img src="https://thumbs.gfycat.com/PortlyPleasingHowlermonkey-max-1mb.gif"
  height="370" width="340" style="border-radius:550px;" align="right" alt="salada" > 
 
-## Prazer, meu nome é Will Dantas, fico feliz por receber sua visita aqui!!👨‍ 👋🏼
+## Prazer, meu nome é Will Dantas!!👨‍ 👋🏼
 <div>
  💻 • Desenvolvedor.
   <br><br>
@@ -62,5 +62,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dantaswilljpg&theme=tokyonight)](https://github.com/dantaswilljpg/github-profile-trophy)
 
 
-![Snake animation](https://github.com/dantaswilljpg/dantaswilljpg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dantaswilljpg/dantaswilljpg/blob/output/github-contribution-grid-snake-dark.svg)
 
