@@ -3,13 +3,13 @@
 
 ## Prazer, meu nome é Will Dantas, fico feliz por receber sua visita aqui!!👨‍ 👋🏼
 <div>
-  • 💻 Desenvolvedor.
+ 💻 • Desenvolvedor.
   <br><br>
 
-• 👨‍🎓Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes e estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech School.
+👨‍🎓  • Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes e estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech School.
 <br><br>
 
-• 📧 Meu e-mail de contato: will.adolpho@sptech.school
+ 📧  • Meu e-mail de contato: will.adolpho@sptech.school
 </div>
 
 <br>
@@ -26,7 +26,7 @@
 <br>
 
 
-## 👨‍ 💻Tecnologias e recusos:
+## 👨‍ 💻 Tecnologias e recusos:
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
