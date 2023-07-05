@@ -15,7 +15,7 @@
 <br>
 <br>
 
- ## 🛠 Git Hub:
+ ## 🛠 GitHub Analytics:
 <br>
 
  <div align="center">
@@ -26,7 +26,7 @@
 <br>
 
 
-## 👨‍ 💻 Tecnologias e recusos:
+## 👨‍ 💻 Tech Stack:
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
@@ -44,7 +44,7 @@
 </div>
 
 
-## 🌐 Contato:
+## 🌐Contact:
 <div align="center">
 <a href="https://www.linkedin.com/in/ti-alves/](https://www.linkedin.com/in/will-gustavo-dantas-adolpho-54532922b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
@@ -57,8 +57,8 @@
 </a>
 	</div>
 
-## 🛠🌐 Destaque: 
+## ###  🏆 GitHub Trophies 🏆:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dantaswilljpg&theme=tokyonight)](https://github.com/dantaswilljpg/github-profile-trophy)
-
+![Snake animation](https://github.com/dantaswilljpg/dantaswilljpg/blob/output/github-contribution-grid-snake.svg)
 
