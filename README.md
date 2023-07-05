@@ -56,3 +56,9 @@
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
 	</div>
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=dantaswilljpg&theme=tokyonight)](https://github.com/dantaswilljpg/github-profile-trophy)
+
+
+![Snake animation](https://github.com/dantaswilljpg/dantaswilljpg/blob/output/github-contribution-grid-snake.svg)
+
