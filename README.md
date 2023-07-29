@@ -20,10 +20,10 @@
 
  <div align="center">
   <a href="https://github.com/dantaswilljpg"> </a>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=dantaswilljpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="30%" src="https://github-readme-stats.vercel.app/api?username=dantaswilljpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaswilljpg&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<br>
+<br>3
 
 
 ## 👨‍ 💻 Tecnologias:
