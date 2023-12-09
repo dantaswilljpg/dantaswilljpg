@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/Mscw2tH9hcAne/giphy.gif?cid=ecf05e47e7xqwusxvq8m5ce84b20uxoy4twxgiztxu1292ol&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FoODRheTh1Z3d5dTRvY3JkdTgzbTBqMmM0bGRlZXB6cWVncWxtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4gsjHZMPXdlGo/giphy.gif"
  height="330" width="340" style="border-radius:550px;" align="right" alt="gif" > 
 
 ## Nice to meet you, I'm Will Dantas! 👨‍ 👋🏼
