@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47c7tx3sqrz6d4rzddiqa5xse8r8b1gdcqidyllbr1&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+<img src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif"
  height="330" width="340" style="border-radius: 550px;" align="right" alt="gif">
 
 
