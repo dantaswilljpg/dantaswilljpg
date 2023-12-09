@@ -1,5 +1,5 @@
-<img src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47c7tx3sqrz6d4rzddiqa5xse8r8b1gdcqidyllbr1&ep=v1_gifs_search&rid=giphy.gif&ct=g"
- height="330" width="340" style="border-radius:550px;" align="right" alt="salad" > 
+<img src="https://media1.giphy.com/media/Mscw2tH9hcAne/giphy.gif?cid=ecf05e47e7xqwusxvq8m5ce84b20uxoy4twxgiztxu1292ol&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+ height="330" width="340" style="border-radius:550px;" align="right" alt="gif" > 
 
 ## Nice to meet you, I'm Will Dantas! 👨‍ 👋🏼
 <div>
