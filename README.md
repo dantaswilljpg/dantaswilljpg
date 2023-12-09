@@ -1,15 +1,15 @@
 <img src="https://thumbs.gfycat.com/PortlyPleasingHowlermonkey-max-1mb.gif"
- height="370" width="340" style="border-radius:550px;" align="right" alt="salada" > 
+ height="370" width="340" style="border-radius:550px;" align="right" alt="salad" > 
 
-## Prazer, meu nome é Will Dantas!!👨‍ 👋🏼
+## Nice to meet you, I'm Will Dantas! 👨‍ 👋🏼
 <div>
- • 💻  Desenvolvedor.
+ • 💻  Developer.
   <br><br>
 
-• 👨‍🎓  Sou técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes e estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech School.
+• 👨‍🎓  I'm a Systems Development technician graduated from Etec Guaianazes and a student of Systems Analysis and Development at São Paulo Tech School.
 <br><br>
 
- • 📧  Meu e-mail de contato: will.adolpho@sptech.school
+ • 📧  My contact email: will.adolpho@sptech.school
 </div>
 
 <br>
@@ -26,7 +26,7 @@
 <br>
 
 
-## 👨‍ 💻 Tecnologias:
+## 👨‍ 💻 Technologies:
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
@@ -46,9 +46,9 @@
 </div>
 
 
-## 🌐Contatos:
+## 🌐Contacts:
 <div align="center">
-<a href="https://www.linkedin.com/in/ti-alves/](https://www.linkedin.com/in/will-gustavo-dantas-adolpho-54532922b" target="_blank">
+<a href="https://www.linkedin.com/in/will-gustavo-dantas-adolpho-54532922b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
 </a>
 <a href="mailto:willgustavodantasadolpho@gmail.com" target="_blank">
@@ -59,8 +59,6 @@
 </a>
 	</div>
 
-## 🏆 Conquistas: 
+## 🏆 Achievements: 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dantaswilljpg&theme=tokyonight)](https://github.com/dantaswilljpg/github-profile-trophy)
-
-
