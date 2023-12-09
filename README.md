@@ -33,7 +33,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dantaswilljpg&color=blue&style=flat-square&label=Profile+Views)
 
-
 ## 👨‍ 💻 Technologies:
 
 <div align="center">
@@ -49,9 +48,10 @@
     <code><img height="50" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes" /></code>
     <code><img height="50" src="https://img.icons8.com/color/48/000000/console.png" alt="Shell" title="Shell" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
-	<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" title="SQL Server" /></code>
+	<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" /></code>
 	<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" /></code>
 </div>
+
 
 
 ## 🌐 Contacts:
