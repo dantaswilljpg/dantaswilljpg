@@ -1,5 +1,5 @@
 <img src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif"
- height="320" width="340" style="border-radius: 550px;" align="right" alt="gif">
+ height="325" width="340" style="border-radius: 550px;" align="right" alt="gif">
 
 
 ## Nice to meet you, I'm Will Dantas! 👨‍ 👋🏼
