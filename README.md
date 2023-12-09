@@ -33,6 +33,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dantaswilljpg&color=blue&style=flat-square&label=Profile+Views)
 
+
 ## 👨‍ 💻 Technologies:
 
 <div align="center">
@@ -51,6 +52,7 @@
 	<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" title="SQL Server" /></code>
 	<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" /></code>
 </div>
+
 
 ## 🌐 Contacts:
 <div align="center">
