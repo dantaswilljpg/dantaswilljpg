@@ -46,10 +46,12 @@
     <code><img height="50" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes" /></code>
     <code><img height="50" src="https://img.icons8.com/color/48/000000/console.png" alt="Shell" title="Shell" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
-	 <code><img height="50" src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png" alt="Apex" title="Apex" /></code>
-	<code><img height="50" src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server" /></code>
-	<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" /></code>
-    <code><img height="50" src="https://img.icons8.com/ios/50/000000/docker.png" alt="Docker" title="Docker" /></code>
+	 code><img height="50" src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png" alt="Apex" title="Apex" /></code>
+ <code><img height="50" src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server" /></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" /></code>
+  <code><img height="50" src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" title="Docker" /></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" title="Azure" /></code>
+
 </div>
 
 
