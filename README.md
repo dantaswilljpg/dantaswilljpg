@@ -33,7 +33,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dantaswilljpg&color=blue&style=flat-square&label=Profile+Views)
 
-## 👨‍ 💻 Technologies:
+## 👨‍💻 Technologies:
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
@@ -49,6 +49,7 @@
 	 <code><img height="50" src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png" alt="Apex" title="Apex" /></code>
 	<code><img height="50" src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server" /></code>
 	<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" /></code>
+    <code><img height="50" src="https://img.icons8.com/ios/50/000000/docker.png" alt="Docker" title="Docker" /></code>
 </div>
 
 
